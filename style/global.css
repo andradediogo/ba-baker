@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #EFEFEF;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+ul,li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+button{
+    cursor: pointer;
+}

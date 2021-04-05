@@ -1,0 +1,34 @@
+.produtos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h3{
+    color: #D6613E;
+}
+#linha-horizontal{
+    width: 75px;
+    border: 2px solid #D6613E;
+    margin-top: 5px;
+   
+}
+.titulo{
+    color: #646464;
+}
+
+p{
+    margin-top: 15px;
+}
+
+.texto-preco{
+    background-color: #FFFFFF;
+    font-size: 15px;
+
+}

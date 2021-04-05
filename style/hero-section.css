@@ -1,0 +1,28 @@
+.hero-section{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height:  550px;
+    background-image: url(../img/bolo-background1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+    
+.texto{
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-left: 140px;
+
+}
+.botao-1{
+    color: #FFFFFF;
+    cursor: pointer;
+    background: #D6613E;
+    border-radius: 0.5em;
+    font-size: 13px;
+   
+    
+   
+}
